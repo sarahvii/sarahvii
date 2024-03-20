@@ -2,7 +2,9 @@
 
 Hi, I'm Sarah. I'm seeking my first junior developer or QA role.
 
-I'm also open to freelance work.  If you know of any interesting roles, I'd love to hear from you!
+I'm also open to freelance work.  
+
+If you know of any interesting roles, I'd love to hear from you!
 
 <!--
 **sarahvii/sarahvii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
